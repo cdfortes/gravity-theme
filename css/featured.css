@@ -1,0 +1,39 @@
+.featured {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.featured .title {
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 1.168em;
+    letter-spacing: -1px;
+    width: 540px;
+}
+
+.featured .social {
+    display: flex;
+    align-self: flex-end;
+    width: 120px;
+    justify-content: space-between;
+}
+
+.featured .item {}
+
+.featured .icon {
+    width: 16px;
+}
+
+.featured .wrapper-photo {
+    margin-top: 90px;
+}
+
+.featured .photo {
+    width: 100%;
+    margin-bottom: 42px;
+}
+
+.featured .caption {
+    color: rgba(34, 34, 34, 0.7);
+}
