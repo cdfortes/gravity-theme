@@ -19,7 +19,7 @@
     justify-content: space-between;
 }
 
-.featured .item {}
+
 
 .featured .icon {
     width: 16px;
@@ -36,4 +36,5 @@
 
 .featured .caption {
     color: rgba(34, 34, 34, 0.7);
+    line-height: 1.556em
 }

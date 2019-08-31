@@ -1,0 +1,37 @@
+.explore {
+    margin-top: 135px;
+
+
+}
+
+.explore .images {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 46px;
+}
+
+.explore-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.explore-footer .description {
+    width: 540px;
+    color: rgba(34, 34, 34, 0.7);
+    line-height: 1.556em;
+}
+
+.explore-footer .button {
+    background: #EF8E70;
+    width: 160px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.714em;
+    padding: 17px 37px;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
