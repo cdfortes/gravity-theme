@@ -1,5 +1,10 @@
 .awards {
     margin-top: 158px;
     border-top: 1px rgba(34, 34, 34, 0.2) solid;
-    padding-bottom: 62px;
+    padding-top: 62px;
+    margin-bottom: 158px;
+
+    display: flex;
+    justify-content: space-between;
+
 }
